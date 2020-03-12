@@ -1,0 +1,39 @@
+# Welcome to Sonic Pi v3.1
+#Legend of Zelda
+use_synth :piano
+play:a4
+play:e4
+play:a4
+play:a4
+play:b4
+play:cs5
+play:d5
+play:e5
+play:e5
+play:e5
+play:f5
+play:g5
+play:a5
+play:a5
+play:a5
+play:g5
+play:f5
+play:g5
+play:e5
+play:e5
+play:d5
+play:d5
+play:e5
+play:f5
+play:e5
+play:d5
+play:c5
+play:c5
+play:d5
+play:e5
+play:d5
+play:b4
+play:bs4
+play:cs5
+play:ds5
+play:f5
